@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PRAS.App.csproj" />
+  <Project Path="PRAS.Business/PRAS.Business.csproj" />
+  <Project Path="PRAS.Core/PRAS.Core.csproj" />
+  <Project Path="PRAS.DataAccess/PRAS.DataAccess.csproj" />
+</Solution>
